@@ -1,0 +1,17 @@
+Mi proyecto fue sobre seguridad informatica, lo que aprendi entodo este mes de proyecto fue conoser los tipos de atacantes y como operan.
+
+
+Aprendi los diferentes tipos de ataques en lo principal lo son el pishing, keylogger, rasomware. 
+como virtualizar el sistema operativo kali linux en el virtualbox, encontrar vulnerabilidades en paginas web, detectar si un URL es un ataque pishing y crear los virus de rasomware y Keylogger
+los cuales estan hechos con el lenguaje de programacion python. 
+
+
+
+El pishing es un tipo de fraude donde su objetivo es adquirir la informacion como nombres, claves, datos, numero de targeta de credito.
+Esto se aplica mediante un correo falso.
+
+El keyloger es un igual al pishing la unica diferencia que este capta todo lo que se escribe en el teclado.
+Se aplica por un aplicacion ejecutable.
+
+el rasomware es un secuestro donde si se lo ejecuta los archivos quedaran encriptados y dejara los archivos inservibles el atacante Deja alguna nota donde pide para desencriptar los archivos.
+Se aplica por un aplicacion ejecutable.
